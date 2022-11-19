@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "niaga1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FUNGSI": 999, "FCODE": null, "REMARK": "Pusat Bisnis dan Perdagangan Lainnya", "SRS_ID": null, "LCODE": "GB0020", "METADATA": null, "FGSKOD": 999, "JNSPSR": 0, "JNSTKO": 0, "JNSKTR": 0, "PRSTRP": 0 }, "geometry": { "type": "Point", "coordinates": [ 106.780909653000037, -6.236007358999927, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FUNGSI": 999, "FCODE": null, "REMARK": "Pusat Bisnis dan Perdagangan Lainnya", "SRS_ID": null, "LCODE": "GB0020", "METADATA": null, "FGSKOD": 999, "JNSPSR": 0, "JNSTKO": 0, "JNSKTR": 0, "PRSTRP": 0 }, "geometry": { "type": "Point", "coordinates": [ 106.782893125000044, -6.238060042999962, 0.0 ] } }
+]
+}

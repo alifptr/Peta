@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "saranaibadah1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.785454382000069, -6.22746019799996, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.781012112000042, -6.232926420999945, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.780499166000084, -6.229148256999963, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.773909343000071, -6.22627783799993, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 1, "FCODE": null, "REMARK": "Masjid", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.770748603000072, -6.232437372999925, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": null, "LUAS": 0.0, "FGSIBD": 2, "FCODE": null, "REMARK": "Gereja", "SRS_ID": null, "LCODE": "GF0020", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 106.779634431000034, -6.231442586999947, 0.0 ] } }
+]
+}
